@@ -9,6 +9,14 @@ text-align: center;
   height: auto   !important;
 }*/
 
+html { 
+  background: url("https://images.alphacoders.com/276/276713.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1 {
 
 text-align: center;
